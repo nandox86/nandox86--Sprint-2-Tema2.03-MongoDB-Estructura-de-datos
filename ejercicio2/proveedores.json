@@ -1,0 +1,38 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f2"},
+      "nombre": "Gafas Asociadas S.A.S",
+      "direccion": {
+        "calle": "Carrera 7",
+        "numero": "71-52",
+        "piso": 4,
+        "puerta": "402",
+        "ciudad": "Bogotá",
+        "codigoPostal": "110231",
+        "pais": "Colombia"
+      },
+      "telefono": "6017654321",
+      "fax": "6017654322",
+      "nif": "900123456-7",
+      "email": "contacto@gafasasociadas.com.co",
+      "sitioWeb": "www.gafasasociadas.com.co"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f3"},
+      "nombre": "Ópticas del Valle S.A.",
+      "direccion": {
+        "calle": "Avenida 6N",
+        "numero": "23-45",
+        "piso": 1,
+        "puerta": "101",
+        "ciudad": "Cali",
+        "codigoPostal": "760001",
+        "pais": "Colombia"
+      },
+      "telefono": "6025678901",
+      "fax": "6025678902",
+      "nif": "900987654-3",
+      "email": "info@opticasdelvalle.com.co",
+      "sitioWeb": "www.opticasdelvalle.com.co"
+    }
+  ]

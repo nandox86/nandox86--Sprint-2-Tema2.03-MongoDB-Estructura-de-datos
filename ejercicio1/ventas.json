@@ -1,0 +1,20 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f8"},
+      "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f2"},
+      "empleado_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f6"},
+      "fecha": {"$date": "2023-09-23T14:30:00Z"},
+      "precio": 127000,
+      "metodoPago": "Tarjeta de crédito"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f9"},
+      "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f3"},
+      "empleado_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f7"},
+      "fecha": {"$date": "2023-10-18T11:15:00Z"},
+      "precio": 245000,
+      "metodoPago": "Efectivo"
+    }
+  ]

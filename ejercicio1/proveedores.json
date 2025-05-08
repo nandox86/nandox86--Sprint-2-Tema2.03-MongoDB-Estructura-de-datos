@@ -1,0 +1,34 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f0"},
+      "nombre": "Proveedor Rayban Colombia",
+      "direccion": {
+        "calle": "Calle 82",
+        "numero": "12-45",
+        "piso": 3,
+        "puerta": "301",
+        "ciudad": "Bogotá",
+        "codigoPostal": "110221",
+        "pais": "Colombia"
+      },
+      "telefono": "6013456789",
+      "fax": "6013456790",
+      "nif": "901234567-8"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f1"},
+      "nombre": "Ópticas Colombianas S.A.S",
+      "direccion": {
+        "calle": "Carrera 15",
+        "numero": "93-60",
+        "piso": 5,
+        "puerta": "503",
+        "ciudad": "Medellín",
+        "codigoPostal": "050021",
+        "pais": "Colombia"
+      },
+      "telefono": "6044567890",
+      "fax": "6044567891",
+      "nif": "900876543-2"
+    }
+  ]

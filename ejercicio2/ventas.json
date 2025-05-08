@@ -1,0 +1,32 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f7"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f0"},
+      "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+      "empleado_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f9"},
+      "fecha": {"$date": "2023-09-15T10:30:00Z"},
+      "precio": 405000,
+      "metodoPago": "Tarjeta de crédito",
+      "numeroFactura": "FAC-2023-0001"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f8"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f0"},
+      "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+      "empleado_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f9"},
+      "fecha": {"$date": "2023-10-05T15:45:00Z"},
+      "precio": 405000,
+      "metodoPago": "Efectivo",
+      "numeroFactura": "FAC-2023-0002"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fa"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f1"},
+      "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f6"},
+      "empleado_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fa"},
+      "fecha": {"$date": "2023-10-12T11:20:00Z"},
+      "precio": 520000,
+      "metodoPago": "Transferencia bancaria",
+      "numeroFactura": "FAC-2023-0003"
+    }
+  ]

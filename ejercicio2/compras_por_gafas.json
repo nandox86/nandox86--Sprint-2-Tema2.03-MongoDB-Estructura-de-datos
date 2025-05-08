@@ -1,0 +1,40 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fb"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f0"},
+      "modelo": "Google #",
+      "marca": "Rayban",
+      "clientes": [
+        {
+          "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+          "nombre": "Ana María Sánchez",
+          "fechaCompra": {"$date": "2023-09-15T10:30:00Z"},
+          "venta_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f7"}
+        },
+        {
+          "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+          "nombre": "Juan Carlos Ramírez",
+          "fechaCompra": {"$date": "2023-10-05T15:45:00Z"},
+          "venta_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f8"}
+        }
+      ],
+      "totalVentas": 2,
+      "ingresoTotal": 810000
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fc"},
+      "gafas_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f1"},
+      "modelo": "Aviator Classic",
+      "marca": "Rayban",
+      "clientes": [
+        {
+          "cliente_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f6"},
+          "nombre": "Luisa Fernanda Morales",
+          "fechaCompra": {"$date": "2023-10-12T11:20:00Z"},
+          "venta_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fa"}
+        }
+      ],
+      "totalVentas": 1,
+      "ingresoTotal": 520000
+    }
+  ]

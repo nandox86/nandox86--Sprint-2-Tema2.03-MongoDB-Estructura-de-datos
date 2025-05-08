@@ -1,0 +1,32 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+      "nombre": "Ana María Sánchez",
+      "direccion": "Calle 116 #15-64, Apto 502, Bogotá",
+      "telefono": "3157894561",
+      "email": "anamaria@email.com",
+      "fechaRegistro": {"$date": "2023-07-12T00:00:00Z"},
+      "recomendadoPor": null,
+      "documento": "52345678"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+      "nombre": "Juan Carlos Ramírez",
+      "direccion": "Carrera 43 #85-21, Medellín",
+      "telefono": "3209876543",
+      "email": "juancarlos@email.com",
+      "fechaRegistro": {"$date": "2023-08-23T00:00:00Z"},
+      "recomendadoPor": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+      "documento": "79123456"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f6"},
+      "nombre": "Luisa Fernanda Morales",
+      "direccion": "Calle 5 #45-67, Cali",
+      "telefono": "3112345678",
+      "email": "luisafernanda@email.com",
+      "fechaRegistro": {"$date": "2023-09-05T00:00:00Z"},
+      "recomendadoPor": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+      "documento": "1020345678"
+    }
+  ]

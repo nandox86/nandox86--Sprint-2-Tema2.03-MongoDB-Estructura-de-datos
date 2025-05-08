@@ -1,0 +1,20 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"},
+      "nombre": "Carlos Rodríguez",
+      "direccion": "Calle 127 #45-23, Bogotá",
+      "telefono": "3157894561",
+      "email": "carlos.rodriguez@email.com",
+      "fechaRegistro": {"$date": "2023-09-23T00:00:00Z"},
+      "recomendadoPor": null
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f5"},
+      "nombre": "María Gómez",
+      "direccion": "Carrera 54 #70-85, Barranquilla",
+      "telefono": "3209876543",
+      "email": "maria.gomez@email.com",
+      "fechaRegistro": {"$date": "2023-10-15T00:00:00Z"},
+      "recomendadoPor": {"$oid": "6001f1d5e8c4a7b3c9d2e1f4"}
+    }
+  ]

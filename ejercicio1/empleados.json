@@ -1,0 +1,18 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f6"},
+      "nombre": "Juan Pérez",
+      "documento": "1020345678",
+      "cargo": "Vendedor",
+      "telefono": "3101234567",
+      "email": "juan.perez@culdampolla.com"
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f7"},
+      "nombre": "Laura Martínez",
+      "documento": "1032456789",
+      "cargo": "Optómetra",
+      "telefono": "3154567890",
+      "email": "laura.martinez@culdampolla.com"
+    }
+  ]

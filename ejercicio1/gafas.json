@@ -1,0 +1,38 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f2"},
+      "marca": "Rayban",
+      "graduacion": {
+        "izquierdo": 2.3,
+        "derecho": 2.0
+      },
+      "montura": {
+        "tipo": "Metálica",
+        "color": "Negro"
+      },
+      "colorCristales": {
+        "izquierdo": "Transparente",
+        "derecho": "Transparente"
+      },
+      "precio": 127000,
+      "proveedor_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f0"}
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f3"},
+      "marca": "Oakley",
+      "graduacion": {
+        "izquierdo": 1.5,
+        "derecho": 1.75
+      },
+      "montura": {
+        "tipo": "Pasta",
+        "color": "Azul"
+      },
+      "colorCristales": {
+        "izquierdo": "Polarizado",
+        "derecho": "Polarizado"
+      },
+      "precio": 245000,
+      "proveedor_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f1"}
+    }
+  ]

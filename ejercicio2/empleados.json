@@ -1,0 +1,20 @@
+[
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1f9"},
+      "nombre": "Carlos Andrés Martínez",
+      "documento": "79876543",
+      "cargo": "Vendedor",
+      "telefono": "3134567890",
+      "email": "carlos.martinez@culdampolla.com",
+      "fechaContratacion": {"$date": "2022-05-10T00:00:00Z"}
+    },
+    {
+      "_id": {"$oid": "6001f1d5e8c4a7b3c9d2e1fa"},
+      "nombre": "Patricia Gómez",
+      "documento": "52987654",
+      "cargo": "Optómetra",
+      "telefono": "3187654321",
+      "email": "patricia.gomez@culdampolla.com",
+      "fechaContratacion": {"$date": "2021-11-15T00:00:00Z"}
+    }
+  ]
