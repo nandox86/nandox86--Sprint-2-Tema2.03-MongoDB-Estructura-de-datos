@@ -77,7 +77,7 @@
 
 ## <font>🤝 Contribuciones</font>
 
-<font>git clone</font>. [<font>https://github.com/nandox86/nandox86--Sprint-2-Tema2.03-MongoDB-Estructura-de-datos.git</font>]
+
 <font>git checkout -b nombre-de-tu-rama</font>  
 <font>git add .</font>  
 <font>git commit -m “Descripción de los cambios”</font>
